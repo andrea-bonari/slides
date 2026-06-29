@@ -1,0 +1,1 @@
+# on commit deploy or on workflow_dispatch, setup bun, run bun run index.ts, and deploy the dist folder to gh-pages

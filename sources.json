@@ -1,0 +1,8 @@
+[
+    {
+        "slug": "2026/futurami",
+        "sourceRepo": "https://gitea.andbon.xyz/slides/futurami-2026.git",
+        "buildCommand": "bun i && bun run build",
+        "buildOutput": "dist"
+    }
+]
