@@ -54,7 +54,7 @@ const buildIndex = (baseDir: string, urlBase: string): void => {
 
     const html = `<!DOCTYPE html>
 <html>
-<head><meta charset="utf-8"><title>Index of ${urlBase || '/'}</title></head>
+<head><meta charset="utf-8"><meta name="google-site-verification" content="k9dbKAiifi07wuEPixVjkE2C8J77CoTc47dcVVkgA50" /><title>Index of ${urlBase || '/'}</title></head>
 <body>
 <h1>Index of ${urlBase || '/'}</h1>
 <ul>${links}</ul>
