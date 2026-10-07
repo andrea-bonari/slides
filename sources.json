@@ -4,5 +4,11 @@
         "sourceRepo": "https://gitea.andbon.xyz/slides/futurami-2026.git",
         "buildCommand": "bun i && bun run build",
         "buildOutput": "dist"
+    },
+    {
+        "slug": "2026/scoutismo-e-lc",
+        "sourceRepo": "https://gitea.andbon.xyz/slides/scoutismo-e-lc.git",
+        "buildCommand": "bun i && bun run build",
+        "buildOutput": "dist"
     }
 ]
